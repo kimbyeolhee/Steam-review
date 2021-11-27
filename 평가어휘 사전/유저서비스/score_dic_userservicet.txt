@@ -30,7 +30,6 @@ word,tag,reinforcer,score
 개선,NNG,0,0.67
 이해,NNG,0,0.5
 멈추,VV,0,-0.5
-아니,VCN,0,0
 보람,NNP,0,0.33
 이루어지,VV,0,0.17
 하,XSV,0,0.17
