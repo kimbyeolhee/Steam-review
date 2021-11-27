@@ -165,7 +165,7 @@ word,tag,reinforcer,score
 지림,VV,0,1
 안남,NNP,0,-1
 맥락에 맞지 않,VA,0,-0.83
-짜증,NNP,0,-1
+짜증,NNG,0,-1
 참신,XR,0,0.67
 구리,VA,0,-1
 칭찬,NNG,0,1
