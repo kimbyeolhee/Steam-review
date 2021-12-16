@@ -1,0 +1,31 @@
+
+미지원	NNG
+마음에 든다	VV
+버그	NNP
+렉	NNP
+드랍	NNP
+개적화	NNP
+무한 대기열	NNP
+팅기	VV
+번역기	NNG
+오짐	VA
+깨작	VA
+먹튀	NNP
+발적화	NNP
+구리	VA
+해주세요	VV
+불가능	NNG
+비추	NNG
+기가차다	VV
+기가찬다	VV
+렉	NNG
+망겜	NNG
+한세월	NNG
+언짢	VA
+있었으면	VV
+초기화	NNG
+노답	NNG
+병맛	NNG
+개똥망겜	NNG
+목빠지게	VA
+손 놓	VV
