@@ -1,0 +1,40 @@
+
+마음에 들	VA
+맘에 들	VA
+육중	VA
+이쁘	VA
+잘 찍	VV
+정성이 들	VA
+과하	VA
+개성 넘치	VV
+잘 갖추	VV
+잘 만들	VV
+내다 버리	VV
+눈뽕	NNG
+그래픽 뽕	NNG
+매력적	VA
+독보	NNP
+뽕맛	NNG
+보기 편하	VV
+과하	VA
+잘 뽑	VV
+하자	NNG
+스타일리쉬	NNG
+이따구	NNG
+뻑가	VV
+쩌	VA
+내 스타일	NNG
+눈에 띄	VV
+손에 꼽	VV
+보는 맛	NNG
+몽환	NNG
+볼거리 많	VV
+신경 쓰	VV
+다채로	VA
+졸귀	NNG
+답 없	VV
+지직	VA
+부자연	VA
+불친절	NNG
+거르	VV
+비추천	NNP
