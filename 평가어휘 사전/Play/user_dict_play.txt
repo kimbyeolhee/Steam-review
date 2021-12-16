@@ -1,0 +1,13 @@
+
+기대 없이	VA
+손이 가	VV
+너무 길	VA
+맹맹하	VA
+말도 안되	XSV
+하고 싶	VX
+시간 가	VV
+현자타임	NNG
+선형	NNP
+현타	NNG
+정신질환	NNG
+노답	NNG
